@@ -1,0 +1,19 @@
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\bin\Debug\Property Auction Management System.exe.config
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\bin\Debug\Property Auction Management System.exe
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\bin\Debug\Property Auction Management System.pdb
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property Auction Management System.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property_Auction_Management_System.BuyerDashboard.resources
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property_Auction_Management_System.comment.resources
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property_Auction_Management_System.Form1.resources
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property_Auction_Management_System.Login.resources
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property_Auction_Management_System.payment.resources
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property_Auction_Management_System.Properties.Resources.resources
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property_Auction_Management_System.propertyDetails.resources
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property_Auction_Management_System.Registration.resources
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property Auction Management System.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property Auction Management System.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property Auction Management System.exe
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property Auction Management System.pdb
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property_Auction_Management_System.LoginBuyer.resources
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property_Auction_Management_System.SellerDashboard.resources
+C:\Users\Asus\source\repos\Property Auction Management System\Property Auction Management System\obj\Debug\Property_Auction_Management_System.BidProcess.resources
